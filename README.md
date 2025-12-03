@@ -60,8 +60,9 @@ Open the Postman and run below URL using GET method
 http://localhost:5000/users
 
 
----
+```
 
+---
 ## Tech Stack
 
 The following tools were used in the construction of the project:
